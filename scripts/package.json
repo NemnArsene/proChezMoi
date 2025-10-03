@@ -1,0 +1,12 @@
+{
+  "name": "prochezmoi-scripts",
+  "version": "1.0.0",
+  "description": "Database seed and utility scripts",
+  "scripts": {
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.3",
+    "bcrypt": "^5.1.1"
+  }
+}
